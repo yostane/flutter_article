@@ -1,5 +1,7 @@
 # Introduction
 
+[https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514](https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514)
+
 ## existing apps
 
 # Flutter concepts
